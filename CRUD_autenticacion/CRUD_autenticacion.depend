@@ -1,0 +1,293 @@
+# depslib dependency file v1.0
+1684332200 source:c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\archivos\secuenciales\crud con autenticacion\crud_autenticacion\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"bitacora.h"
+
+1684331731 c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\archivos\secuenciales\crud con autenticacion\crud_autenticacion\include\usuarios.h
+	<iostream>
+
+1684338328 source:c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\archivos\secuenciales\crud con autenticacion\crud_autenticacion\main.cpp
+	<iostream>
+	<fstream>
+	"usuarios.h"
+	"vendedores.h"
+	"bitacora.h"
+	"aplicaciones.h"
+
+1684333170 c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\archivos\secuenciales\crud con autenticacion\crud_autenticacion\include\vendedores.h
+	<iostream>
+
+1684338276 source:c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\archivos\secuenciales\crud con autenticacion\crud_autenticacion\src\vendedores.cpp
+	"vendedores.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1684333709 source:c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\archivos\secuenciales\crud con autenticacion\crud_autenticacion\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684328590 c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\archivos\secuenciales\crud con autenticacion\crud_autenticacion\include\bitacora.h
+	<iostream>
+
+1684338276 source:c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\archivos\secuenciales\crud con autenticacion\crud_autenticacion\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1684338276 c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\archivos\secuenciales\crud con autenticacion\crud_autenticacion\include\aplicaciones.h
+	<iostream>
+
+1684338328 source:c:\users\soporte\documents\profesional\umg\didactica2k23\clases\prograuno2k23\archivos\secuenciales\crud_autenticacion\main.cpp
+	<iostream>
+	<fstream>
+	"usuarios.h"
+	"vendedores.h"
+	"bitacora.h"
+	"aplicaciones.h"
+
+1684331731 c:\users\soporte\documents\profesional\umg\didactica2k23\clases\prograuno2k23\archivos\secuenciales\crud_autenticacion\include\usuarios.h
+	<iostream>
+
+1684333170 c:\users\soporte\documents\profesional\umg\didactica2k23\clases\prograuno2k23\archivos\secuenciales\crud_autenticacion\include\vendedores.h
+	<iostream>
+
+1684328590 c:\users\soporte\documents\profesional\umg\didactica2k23\clases\prograuno2k23\archivos\secuenciales\crud_autenticacion\include\bitacora.h
+	<iostream>
+
+1684338276 c:\users\soporte\documents\profesional\umg\didactica2k23\clases\prograuno2k23\archivos\secuenciales\crud_autenticacion\include\aplicaciones.h
+	<iostream>
+
+1684338276 source:c:\users\soporte\documents\profesional\umg\didactica2k23\clases\prograuno2k23\archivos\secuenciales\crud_autenticacion\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1684333709 source:c:\users\soporte\documents\profesional\umg\didactica2k23\clases\prograuno2k23\archivos\secuenciales\crud_autenticacion\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684332200 source:c:\users\soporte\documents\profesional\umg\didactica2k23\clases\prograuno2k23\archivos\secuenciales\crud_autenticacion\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"bitacora.h"
+
+1684338276 source:c:\users\soporte\documents\profesional\umg\didactica2k23\clases\prograuno2k23\archivos\secuenciales\crud_autenticacion\src\vendedores.cpp
+	"vendedores.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1684338328 source:c:\users\soporte\documents\profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\main.cpp
+	<iostream>
+	<fstream>
+	"usuarios.h"
+	"vendedores.h"
+	"bitacora.h"
+	"aplicaciones.h"
+
+1684331731 c:\users\soporte\documents\profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\include\usuarios.h
+	<iostream>
+
+1684333170 c:\users\soporte\documents\profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\include\vendedores.h
+	<iostream>
+
+1684328590 c:\users\soporte\documents\profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\include\bitacora.h
+	<iostream>
+
+1684338276 c:\users\soporte\documents\profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\include\aplicaciones.h
+	<iostream>
+
+1684338276 source:c:\users\soporte\documents\profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1684333709 source:c:\users\soporte\documents\profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1712608934 source:c:\users\soporte\documents\profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"bitacora.h"
+
+1684338276 source:c:\users\soporte\documents\profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\src\vendedores.cpp
+	"vendedores.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1684338328 source:c:\users\soporte\documents\2.profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\main.cpp
+	<iostream>
+	<fstream>
+	"usuarios.h"
+	"vendedores.h"
+	"bitacora.h"
+	"aplicaciones.h"
+
+1684331731 c:\users\soporte\documents\2.profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\include\usuarios.h
+	<iostream>
+
+1684333170 c:\users\soporte\documents\2.profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\include\vendedores.h
+	<iostream>
+
+1684328590 c:\users\soporte\documents\2.profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\include\bitacora.h
+	<iostream>
+
+1684338276 c:\users\soporte\documents\2.profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\include\aplicaciones.h
+	<iostream>
+
+1684338276 source:c:\users\soporte\documents\2.profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1684333709 source:c:\users\soporte\documents\2.profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1712765550 source:c:\users\soporte\documents\2.profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"bitacora.h"
+
+1684338276 source:c:\users\soporte\documents\2.profesional\umg\didactica2k24\prograuno2k24\9. archivos\secuenciales\crud_autenticacion\src\vendedores.cpp
+	"vendedores.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1780077999 source:c:\users\bmthb\documents\prograuno2k26\9. archivos\secuenciales\crud_autenticacion\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"usuarios.h"
+	"bitacora.h"
+	"aplicaciones.h"
+
+1780077971 c:\users\bmthb\documents\prograuno2k26\9. archivos\secuenciales\crud_autenticacion\include\usuarios.h
+	<string>
+
+1777906125 c:\users\bmthb\documents\prograuno2k26\9. archivos\secuenciales\crud_autenticacion\include\vendedores.h
+	<iostream>
+
+1780078011 c:\users\bmthb\documents\prograuno2k26\9. archivos\secuenciales\crud_autenticacion\include\bitacora.h
+	<string>
+
+1780077901 c:\users\bmthb\documents\prograuno2k26\9. archivos\secuenciales\crud_autenticacion\include\aplicaciones.h
+	<string>
+
+1780077908 source:c:\users\bmthb\documents\prograuno2k26\9. archivos\secuenciales\crud_autenticacion\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+
+1780078022 source:c:\users\bmthb\documents\prograuno2k26\9. archivos\secuenciales\crud_autenticacion\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<ctime>
+
+1780077961 source:c:\users\bmthb\documents\prograuno2k26\9. archivos\secuenciales\crud_autenticacion\src\usuarios.cpp
+	"usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstring>
+
+1777906125 source:c:\users\bmthb\documents\prograuno2k26\9. archivos\secuenciales\crud_autenticacion\src\vendedores.cpp
+	"vendedores.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
